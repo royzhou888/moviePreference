@@ -1,0 +1,67 @@
+Timestamp,Education,Nation,Income,Religion,Gender,Culture,Movie1,Movie2,Movie3,BestMovie,Location,Genre,Age,MoodBefore,MoodBefore,O_Personality,C_Personality,E_Personality,N_Personality,A_Personality
+8/19/2015 2:35:07,University,Iceland,4,Yes,Female,European,once where warrior,,,,,Drama,24,happy,sad,5,5,3,1,5
+8/19/2015 2:37:31,PHD,South Africa,3,Yes,Male,Western,,,,,,Drama,27,,,4,3,2,1,5
+8/19/2015 2:48:36,High school,American,2,No,Male,Western,Fight club,,,,,Mystery,16,happy,Excited,5,5,2,2,5
+8/19/2015 3:09:13,College,India,2,Yes,Male,South Asian,Batman : the dark knight,,,,,Thriller,18,Don't know,Happy and thinking about it almost 3 days,2,2,1,5,5
+8/19/2015 3:31:58,University,nigeria,4,No,Male,african,mission impossible,,,,Watch movie with others at home,Thriller,21,anxious,excited,5,5,1,1,5
+8/19/2015 3:56:22,PHD,,2,Yes,Female,European,Ghost,,,,By yourself,Drama,20,happy,happy,5,5,3,4,5
+8/19/2015 4:14:22,University,english,3,Don't Know,Female,Western,The Kite Runner,,,,Watch movie with others at home,Mystery,20,happy,distressed,3,5,4,2,5
+8/19/2015 4:29:16,University,INDIA,3,Don't Know,3,East Asian,MR INDIA,,,,Watch movie with others at home,Science Fiction,15,happy,happy,5,5,3,3,5
+8/19/2015 4:42:01,University,Australia,2,No,Male,European,Anchorman,,,,Movie Theater,Comedy,16,happy,happy,4,3,2,1,3
+8/19/2015 4:46:33,College,UK,3,No,Male,Western,Shawshank Redemption,,,,By yourself,Drama,20,intrigued,edified,2,2,1,3,5
+8/19/2015 4:47:40,College,Indian ,1,Yes,Male,East Asian,Karate kid,,,,By yourself,Drama,22,sad,happy,4,1,1,5,5
+8/19/2015 4:49:44,High school,Australian,2,No,Female,Australian,Cabin in the woods,,,,By yourself,Thriller,14,boring,happy,2,4,1,1,5
+8/19/2015 4:55:46,Graduate School,India,2,Yes,Male,East Asian,Batman Dark knight,,,,By yourself,Thriller,18,happy,happy,2,3,4,5,3
+8/19/2015 5:02:36,High school,India,3,Don't Know,Female,East Asian,escape plan,,,,By yourself,Science Fiction,16,boring,happy,2,3,1,3,3
+8/19/2015 5:03:10,University,Canadian,3,No,Male,European,Airplane,,,,Movie Theater,Drama,24,happy,happy,2,3,2,3,2
+8/19/2015 5:13:31,College,English,3,Yes,Female,Western,The Piano,,,,Before I Sleep,Drama,17,boring,Invigorated,4,4,2,5,5
+8/19/2015 5:21:23,College,indian,3,No,Female,south indian,curious case of Benjamin buttons,,,,By yourself,Mystery,30,,,1,3,2,3,4
+8/19/2015 6:04:16,University,United States,3,No,Female,Western,The Fifth Element,,,,Watch movie with others at home,Science Fiction,41,happy,excited,4,3,3,2,3
+8/19/2015 7:10:48,University,Australia,4,Don't Know,Female,Australian but western more European than ameruvan,love Actually or Fight Club with Anne of Green Gables a close third,,,,when I was watching the movie?  at home alone ,Comedy,28,lonely ,uplifted,4,3,3,3,3
+8/19/2015 7:16:40,High school,Australian,2,Don't Know,Female,Western,Love & Pop,,,,By yourself,Drama,17,indifferent ,empty,4,2,3,3,2
+8/19/2015 7:41:48,University,Australian,3,No,Female,European,5th element,,,,While eatting,Science Fiction,20,boring,happy,5,4,3,5,5
+8/19/2015 8:32:19,College,American,3,Yes,Female,Western,The Green Mile,,,,Watch movie with others at home,Drama,20,happy,happy,3,3,2,2,4
+8/19/2015 11:07:58,High school,U.S.,1,Yes,Female,Western,Steel Magnolias,,,,By yourself,Drama,16,happy,sad,3,2,1,1,5
+8/19/2015 12:14:07,University,canadian,1,Yes,Female,East Asian,miss granny,,,,i don't understand the question. where was i when?,Comedy,24,bored,happy,2,5,3,1,2
+8/19/2015 13:16:36,University,USA,2,Don't Know,Female,Asian (Indian),The Brothers Bloom,Hot Fuzz,Sherlock Holmes (Robert Downey Jr version),,Watch movie with others at home,Drama,19,happy,sad,4,5,2,2,3
+8/19/2015 14:52:06,College,USA,3,No,Male,Western,Children of Men,Saving Private Ryan,Spaceballs,,At Friends House,Action,20,happy,happy,4,5,4,2,3
+8/19/2015 15:10:30,College,US,2,No,Female,Western,Shawshank Redemption,Fellowship of the Ring,Braveheart,,By yourself,Drama,30,Neutral,Inspired,5,3,3,2,5
+8/19/2015 15:33:10,High school,USA,3,Yes,Male,Western,Gladiator,Ben Hur,The Big Country,,Movie Theater,Action,59,happy,sad,1,3,2,2,3
+8/19/2015 16:18:49,University,White,2,No,3,Western,Cloud Atlas,Fifth Element,Pom Poko,,Home,Science Fiction,20,apathetic,I wanted to watch it again,3,3,1,1,3
+8/19/2015 18:56:14,Graduate School,Indian,2,Yes,Female,East Asian,Gattaca,Stranger than fiction,Lord of war,,By yourself,Comedy,24,happy,happy,5,1,1,4,3
+8/19/2015 19:06:22,University,Slovenian,2,No,Male,European,The Intouchables (2011),Mad Max ,The Shawshank Redemption,,Movie Theater,Comedy,28,happy,happy,3,5,3,4,3
+8/19/2015 19:07:11,College,Canada,3,No,Female,Western,The Grudge,The Princess Bride,Forest Gump,,By yourself,Horror,10,happy,happy,3,5,2,2,1
+8/19/2015 19:33:40,High school,white,2,Yes,Female,European,titanic,the notebook,the little mermaid,,Watch movie with others at home,Romance,14,sad,happy,4,3,4,3,5
+8/19/2015 19:35:51,High school,American,3,No,Female,American,The Skin I Live In,The Prestige,Time ,,By yourself,Thriller,22,neutral,intrigued,4,4,1,4,3
+8/19/2015 20:06:29,College,Sri Lanka,2,No,Male,East Asian,Back To The future,Oldboy,Synecdoche New York,,By yourself,Drama,3,boring,happy,5,5,3,5,5
+8/19/2015 21:34:17,High school,Canada,2,No,Female,Western,Children of Men,Fight Club,The Matrix,,By yourself,Action,25,boring,happy,1,4,2,5,4
+8/19/2015 22:40:46,University,China,3,No,Female,East Asian,Rise of apes,Predestination ,Resident evil,,Watch movie with others at home,Mystery,23,boring,happy,4,4,4,4,4
+8/19/2015 23:54:38,College,USA,2,Don't Know,Male,American,Indiana Jones,Jurrassic Park,dumb and dumber,,Watch movie with others at home,Action,4,happy,happy,2,4,1,3,1
+8/20/2015 0:14:06,University,North Amercian,1,Don't Know,Female,Cana-American,Donnie Darko,Out to Sea,The Man Who Fell To Earth,,Others,Drama,17,In love,Cathartic,4,4,3,3,3
+8/20/2015 0:32:55,University,Canada,3,No,Male,East Asian,The Matrix I,Rise of the Planet of the Apes,Avatar,Movie #1,Watch movie with others at home,Science Fiction,18,Don't know,Content,4,2,2,1,4
+8/20/2015 1:51:35,University,Earth,3,No,Male,Middle East,The note book,Mary & max,Braveheart,Movie #2,Watch movie with others at home,Mystery,32,bored,sad,1,3,1,1,4
+8/20/2015 4:26:41,College,Canada,3,No,Female,Western,Tell No One,The Closet,Office Space,Movie #1,Watch movie with others at home,Mystery,60,happy,wow!,4,5,2,3,5
+8/20/2015 4:34:10,University,Greece,3,Yes,Male,European,Life is a bolero,Cinema paradise,No mercy ,Movie #1,Movie Theater,Action,25,Normally ,inspired,5,3,3,4,4
+8/20/2015 4:37:45,University,Indonesia,2,Yes,Male,East Asian,enemy at the gate,zero to hero,avanger,Movie #1,By yourself,Romance,30,happy,happy,2,3,3,2,4
+8/20/2015 4:38:21,College,American,3,No,Male,Western,Christmas Vacation,Bird Cage,Van Helsing,Movie #1,Watch movie with others at home,Comedy,28.4,happy,happy,3,4,2,2,3
+8/20/2015 4:40:16,College,Australian,3,Yes,Male,European,Mission impossible,Lord of the rings,Matrix,Movie #1,Watch movie with others at home,Action,53,happy,happy,3,4,3,2,4
+8/20/2015 4:53:00,High school,Indian,2,No,3,European,Yjhd,Chennai express,Pk,Movie #3,By yourself,Comedy,14,happy,inspired,4,2,2,5,4
+8/20/2015 4:54:38,University,Romania,2,Don't Know,Male,European,Gladiator,Braveheart,Lord of the rings,Movie #1,By yourself,Drama,20,happy,motived,5,5,4,5,3
+8/20/2015 4:54:41,University,American,3,No,Male,American indian,2001 a space oddessey,Interstellar,Hunt for red october,Movie #1,By yourself,Science Fiction,10,happy,inspired,5,3,3,1,2
+8/20/2015 5:17:07,Graduate School,India,3,No,Male,Indian,Bourne series,Jurassic park,Die hard,Movie #1,Before I Sleep,Science Fiction,22,happy,excited,5,4,3,3,3
+8/20/2015 7:50:55,Graduate School,sweden,4,No,Male,European,casshern,casablanca ,totoro,Movie #2,By yourself,Drama,14,bored,educated,4,2,4,2,4
+8/20/2015 8:23:34,University,United States,2,Don't Know,Male,Western,Phantasm,Start Wars,Strange Days,Movie #2,Watch movie with others at home,Science Fiction,9,,excited,5,4,5,2,5
+8/20/2015 11:17:00,University,Canada,2,No,Female,Western,V For Vendetta,Hidalgo,Harry Potter,Movie #1,By yourself,Drama,20,I don't know!,It was a long time ago!,2,3,1,2,5
+8/20/2015 13:06:31,High school,U.S. ,3,Yes,Male,Middle East,Elysium ,Mad Max Fury Road,The Hurt Locker ,Movie #1,By yourself,Action,16,happy,inspired,1,3,4,1,5
+8/20/2015 14:34:33,College,American,2,No,Male,Western,Dr. Stangelove (Or How I Learned to Stop Worrying and Love the Bomb),Star Trek 2: The Wrath of Khan,Monty Python and the Holy Grail,Movie #2,By yourself,Science Fiction,14,happy,happy,4,1,1,3,3
+8/20/2015 18:29:27,High school,USA,4,No,Female,"Western, but my interests are European",Back to the Future,Super 8,5 Centimetres Per Second,Movie #1,By yourself,Mystery,11,Don't remember,happy,5,2,3,2,5
+8/20/2015 20:48:03,High school,United States,4,Yes,Male,Western,The Matrix,Akira,Raiders of the Lost Ark,Movie #2,Watch movie with others at home,Action,17,bored,excited,4,3,1,4,4
+8/20/2015 21:40:17,University,Russian,3,Yes,Male,European,Signs,Meet the Parents,Harry Potter,Movie #1,By yourself,Mystery,20,bored,excited,3,5,2,2,4
+8/21/2015 2:11:35,High school,Australian,3,No,Female,Western,Catch me if you can,Kill Bill vol 1,Saving mr banks,Movie #3,By yourself,biopic,16,bored,inspired,5,2,2,3,3
+8/24/2015 12:40:47,College,Italian/Canadian,1,No,Female,European,The Bird Cage,The Emperor's New Groove,I don't know,Movie #1,Watch movie with others at home,Comedy,13,happy,happy,1,5,5,1,5
+8/24/2015 14:02:44,High school,chinese,3,Yes,Male,East Asian,scream,jurassicpark,jaws,Movie #2,Party,Science Fiction,16,happy,happy,3,3,4,3,3
+8/30/2015 19:01:29,College,China,2,No,Male,East Asian,Yi Yi: http://www.imdb.com/title/tt0244316/,Lord of the Rings,Princess Mononoke,Movie #1,By yourself,Drama,19,"patient, perceptive",disillusioned about love,5,2,2,4,3
+9/1/2015 20:04:12,College,USA,3,No,Male,Western,Let The Right One In,Kontroll,Memories of Murder,Movie #1,By yourself,Thriller,21,happy,happy,4,1,2,1,1
+9/5/2015 11:24:09,High school,American,2,No,Female,Western,Gone With The Wind,Now You See Me,Devil Wears Prada,Movie #1,Watch movie with others at home,Romance,14,happy,happy and sad,3,4,1,2,3
+9/13/2015 18:11:31,College,canada,3,No,Female,European,ABeautiful Mind,Sweet Home Alabama,The Sound of Music,Movie #1,By yourself,Drama,38,sad,inspired,4,4,2,2,5
+9/14/2015 15:30:47,High school,canada,3,Yes,Male,East Asian,jaws,saw,freewilly,Movie #2,Vocation,Mystery,16,sad,inspired,3,3,4,3,3
